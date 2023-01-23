@@ -132,10 +132,10 @@
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
 - [ABOUT FOUNDER](https://t.me/alone_support)
-- [DANGER OP](https://github.com/Dangerop)
+- [DANGER OP](https://github.com/Harshimusi)
 - [DANGER TELEGRAM](https://t.me/MR_HARSH_OP)
 - [Danger Chats](https://t.me/alone_support)
-- [DANGER op](https://github.com/Dangerop)
+- [DANGER op](https://github.com/Harshimusi)
 
 </details>
 
@@ -143,8 +143,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [Choudhary](https://t.me/D4nGeR_0pBolte)
-- [love](https://t.me/QN_Team_support)
+- [Choudhary](https://t.me/alone_support)
+- [love](https://t.me/alone_support)
 
 </details>
 
