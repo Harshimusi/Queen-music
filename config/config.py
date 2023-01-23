@@ -43,14 +43,14 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Jankarikiduniya/AlexaMusic",
+    "https://github.com/Harshimusi/Queen-music",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", None)
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", None)
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/alone_support")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/alone_support")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
 
@@ -86,7 +86,7 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", None)
+STRING1 = getenv("STRING_SESSION", "BQAkEDKFG7PiBmgi-tTHYJ31mQvbRbEv0sLvH7lgLhxEbJ7EYz_8FN1RY0ZtyRiWXP4A4MeUW1NC-GTweR4ca448FgsuyQAN1SBGre9tvpHVaZNYTjJpbg_ODtxRLaO1prGIeoLB43dovcdEETPNJuS6FO9UpCVm01n4XWrMeT49lA8gHF-CKq435WdnFFGHudAj6QKzHBFr_XTjNW963PvfwQWVLC6flxSaHDvzEtsppHV7Fxzyvn6uH3W-19tilwcVxmXVzWojVaCzeBgmLe96Sl8mdvMPtFymowPbQBjVDU-rZrfD6l5dCDO1kEA-JQgbBM4T8INgqXhL9t6QswmaAAAAAVw9gkoA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
@@ -105,7 +105,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/ed1e4016b2209a6d219cb.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/4e1fbd25f78532d9e74c6.jpg"
 )
 
 PING_IMG_URL = getenv(
