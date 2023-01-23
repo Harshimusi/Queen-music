@@ -23,7 +23,7 @@ API_HASH = getenv("API_HASH", "79e5b0d03df604b1bd1ee8b2f753372e")
 
 BOT_TOKEN = getenv("BOT_TOKEN","5685011646:AAGbh-gwqZlHpjNb-vUf-pml24BLTrB77wk")
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://vcbot:vcbot@cluster0.yqipgxg.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Alexamusic:alexa@8242cluster0.jyvri2k.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "900"))
 
