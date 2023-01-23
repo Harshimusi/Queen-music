@@ -131,10 +131,10 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ABOUT FOUNDER](https://t.me/ABOUT_CHOUDHARY)
+- [ABOUT FOUNDER](https://t.me/alone_support)
 - [DANGER OP](https://github.com/Dangerop)
-- [DANGER TELEGRAM](https://t.me/D4nGeR_0pBolte)
-- [Danger Chats](https://t.me/QN_Team_support)
+- [DANGER TELEGRAM](https://t.me/MR_HARSH_OP)
+- [Danger Chats](https://t.me/alone_support)
 - [DANGER op](https://github.com/Dangerop)
 
 </details>
